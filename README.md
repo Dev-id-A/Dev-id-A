@@ -14,22 +14,22 @@ npm run developer
 
 **✨ And here is all my knowledge ✨**
 
-### 1. **Basics**:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" style="vertical-align: middle;"/> HTML  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align: middle;"/> CSS  
+## 1. **Basics**:
+- #### HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" align="top"/>
+- #### CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" align="top"/>  
 
-### 2. **Code**:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align: middle;"/> JavaScript  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" style="vertical-align: middle;"/> TypeScript  
+## 2. **Code**:
+- #### JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" align="top"/>  
+- #### TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" align="top"/>  
 
-### 3. **Front-end**:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="20" style="vertical-align: middle;"/> Bootstrap  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20" height="20" style="vertical-align: middle;"/> SASS  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="20" height="20" style="vertical-align: middle;"/> jQuery  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" style="vertical-align: middle;"/> React  
+## 3. **Front-end**:
+- #### Bootstrap <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="20" align="top"/> 
+- #### SASS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20" height="20" align="top"/>  
+- #### jQuery <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="20" height="20" align="top"/>  
+- #### React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" align="top"/>  
 
-### 4. **Data Visualization**:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="20" height="20" style="vertical-align: middle;"/> D3.js  
+## 4. **Data Visualization**:
+- #### D3.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="20" height="20" align="top"/>  
 
 
 ---

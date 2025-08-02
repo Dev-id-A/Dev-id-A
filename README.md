@@ -1,4 +1,4 @@
-**Trabajando en la versión en ingles**
+You can find english version [here](README.en.md)
 
 ```
 npm run developer

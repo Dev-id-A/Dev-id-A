@@ -13,7 +13,7 @@ npm run developer
 >
 > 📚 Actualmente no estoy trabajando en ningún sitio. Estoy aprendiendo y consiguiendo certificados en [freeCodeCamp](https://www.freecodecamp.org/).
 >
-> 🛠️ Estoy trabajando en un proyecto grande de una tienda de videojuegos. Aunque esté en fases tempranas, voy mejorándolo poco a poco y aprendiendo en el proceso.
+> 🛠️ Estoy trabajando en proyectos para mi propio portafolio y mejorándolos cada día.
 
 ---
 

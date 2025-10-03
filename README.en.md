@@ -12,8 +12,7 @@ npm run developer
 >
 > 📚 I'm currently not working. I'm focused on learning and earning certifications through [freeCodeCamp](https://www.freecodecamp.org/).  
 >
-> 🛠️ I'm building a large-scale video game store project. It’s still in its early stages, but I keep improving it step by step while learning throughout the process.
-
+> 🛠️ I’m currently working on projects for my portfolio.
 ---
 
 **✨ And here's all my knowledge: ✨**

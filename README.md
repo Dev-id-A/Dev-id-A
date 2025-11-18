@@ -43,4 +43,6 @@ npm run developer
 
 **🔗 Puedes encontrarne en:**
 
-- [freeCodeCamp Profile](https://www.freecodecamp.org/-Dev-id)
+- [Perfil de freeCodeCamp](https://www.freecodecamp.org/-Dev-id)
+
+- [Portafolio](david-aranzana.netlify.app)

@@ -25,7 +25,7 @@ npm run developer
 
 ## **Código**:
 - #### JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" align="top"/>  
-- #### TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" align="top"/>  
+- #### TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" align="top"/>
 
 ## **Front-end y estilos**:
 - #### Bootstrap <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="20" align="top"/> 
@@ -33,6 +33,7 @@ npm run developer
 - #### jQuery <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="20" height="20" align="top"/>  
 - #### React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" align="top"/>
 - #### Tailwind.css <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" height="20" align="top"/>
+- #### Redux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="20" height="20" align="top"/>
 
 ## **Visualización de datos**:
 - #### D3.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="20" height="20" align="top"/>

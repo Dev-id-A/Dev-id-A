@@ -31,6 +31,8 @@ npm run developer
 - #### jQuery <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="20" height="20" align="top"/>
 - #### React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" align="top"/>
 - #### Tailwind CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" height="20" align="top"/>
+- #### Redux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="20" height="20" align="top"/>
+
 
 ## **Data Visualization**:
 - #### D3.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="20" height="20" align="top"/>

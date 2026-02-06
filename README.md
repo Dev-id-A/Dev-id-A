@@ -47,3 +47,5 @@ npm run developer
 - [Perfil de freeCodeCamp](https://www.freecodecamp.org/-Dev-id)
 
 - [Portafolio](https://david-aranzana.netlify.app/)
+
+- -[LinkedIn](https://www.linkedin.com/in/david-aranzana-medina-dev/)

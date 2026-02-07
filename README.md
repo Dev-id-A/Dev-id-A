@@ -42,10 +42,10 @@ npm run developer
 - #### PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" align="top"/>
 ---
 
-**🔗 Puedes encontrarne en:**
+**🔗 Puedes encontrarme en:**
 
 - [Perfil de freeCodeCamp](https://www.freecodecamp.org/-Dev-id)
 
 - [Portafolio](https://david-aranzana.netlify.app/)
 
-- -[LinkedIn](https://www.linkedin.com/in/david-aranzana-medina-dev/)
+- [LinkedIn](https://www.linkedin.com/in/david-aranzana-medina-dev/)
